@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "p5": "^1.9.2"
+  },
+  "name": "yb-p5node",
+  "version": "1.0.0",
+  "description": "P5 with node basic boilerplate",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yiorgosbagakis/yb-p5node.git"
+  },
+  "keywords": [
+    "p5"
+  ],
+  "author": "Yiorgos Bagakis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiorgosbagakis/yb-p5node/issues"
+  },
+  "homepage": "https://github.com/yiorgosbagakis/yb-p5node#readme"
+}
