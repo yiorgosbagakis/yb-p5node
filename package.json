@@ -7,7 +7,9 @@
   "description": "P5 with node basic boilerplate",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html",
+    "build": "assemble"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/yiorgosbagakis/yb-p5node/issues"
   },
-  "homepage": "https://yiorgosbagakis.github.io/yb-p5node/"
+  "homepage": "https://yiorgosbagakis.github.io/yb-p5node/",
+  "devDependencies": {
+    "assemble": "^0.24.3"
+  }
 }
